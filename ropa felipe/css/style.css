@@ -1,0 +1,16 @@
+/* catalogo*/
+.card-imag-filter{
+    filter: brightness(.5);
+}
+
+.card {
+    transition-duration: 10s;
+    
+
+        }
+        
+
+.card-effect:hover .card {
+    clip-path: circle(50% at 50% 50%);
+
+}
